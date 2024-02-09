@@ -14,7 +14,7 @@ This repository houses a variety of projects covering different aspects of data 
 
 ## Source and Educational Purpose
 
-The projects in this repository are based on courses I completed with IBM and Dataquest. Some materials, code snippets, or datasets used in these projects might have been provided by these educational platforms. 
+The projects in this repository are based on courses I completed with IBM and Dataquest. Some materials, or datasets used in these projects might have been provided by these educational platforms. 
 
 It's important to note that these projects are primarily for educational purposes to demonstrate my learning journey and practical application of data science concepts. They may contain materials that are subject to the terms of service or licensing agreements of IBM and Dataquest.
 
